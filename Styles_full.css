@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+:root
+{
+    --color-violet:rgba(102, 51, 204, 0.9);
+    --color-violet-noback:rgb(102, 51, 204)
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+body
+{
+    background-color: white;
+    font-family: 'Roboto', sans-serif;
+    margin: 0px;
+    
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    padding:0;
+    margin:0;
+    left: 0px;
+    top: 0px;
+    z-index: -1000;
+    overflow:hidden;
+    opacity: 70% ;
+    }
+    
+.videoPlayer {
+    min-height: 100%;
+    min-width:100%;
+    position:absolute;
+    bottom:0;
+    left:0;
+    }
+
+header
+{
+    padding: 20px;
+    background-color: var(--color-violet-noback);
+}
+
+
+header div
+{
+    text-align: center;
+    margin: auto;
+    
+}
+
+header div img
+{
+    margin-right: 0px;
+    height: 50px;
+    border: 5px solid;
+    border-color: white;
+    border-radius: 50%;
+    vertical-align:middle
+}
+
+header div a
+{
+    color: white;
+    font-size: 18px;
+    line-height: 28px; /* colocar 10px a mais do font-size */
+    margin: 0px 16px;
+    text-decoration: none;
+    padding: 10px 20px;
+    border: 2px solid;
+    border-color: rgba(255, 255, 255, 0);
+    border-radius: 25px;
+    letter-spacing: 2px;
+   
+}
+
+header div a:hover
+{
+    color: white;
+    border: 2px solid;
+    border-color: white;
+    border-radius: 25px;
+    transition: color 200ms;
+}
+
+#about
+{
+    text-align: center;
+    color: white;
+    border-radius: 25px;
+    border-style: hidden;
+    padding: 18px;
+    background: var(--color-violet-noback);
+    text-decoration: none;
+    /*Codes below got from stackoverflow! https://stackoverflow.com/questions/17069435/center-fixed-div-with-dynamic-width-css/17070034*/
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    width: auto;
+    height: auto;
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    transform: translate(-50%,-50%);
+}
+
+#about h0
+{
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: bold;
+    margin: 20px auto;
+}
+
+#about h1
+{
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: bold;
+    margin: 20px auto;
+}
+
+#about h2
+{
+    width: 450px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: normal;
+    margin: 25px auto;
+    opacity: 0.8;
+}
+
+#about p
+{
+    max-width: fit-content;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+    font-weight: normal;
+    margin: 32px 32px 32px 60px;
+    padding: 0px 0px 0px 80px;
+}
+
+#about img
+{
+    height: 100px;
+}
+
+#about imgmiddle
+{
+    height: 80px;
+    width: 30%; 
+    padding: auto;
+    display: inline-flex;
+    align-items: center;
+
+}
+
+#about imgabout
+{
+    margin: 50px;
+    height: 80px;
+    width: 30%; 
+    padding: auto;
+}
+
+#about a
+{
+    color: white;
+    font-size: 18px;
+    line-height: 28px; /* colocar 10px a mais do font-size */
+    margin: 0 16px;
+    text-decoration: none;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 20px;
+    letter-spacing: 2px; 
+}
+
+#about a:hover 
+{
+    color: white;
+    border: 2px solid;
+    border-color: white;
+    border-radius: 25px;
+    transition: color 200ms;
+}
+
+#social
+{
+    text-align: center;
+    padding: 20px;
+    width: 100%;
+    background-color: var(--color-violet-noback);
+    letter-spacing: 20px; 
+    position: absolute; 
+    bottom: 0px; 
+}
+
+#social img
+{
+    height: 35px;
+    text-align: center;
+    opacity: 0.6;
+}
+
+#social img:hover
+{
+    border: solid;
+    border-radius: 50%;
+    border-width: 2px;
+    border-color: white; 
+    transition: color 200ms;
+}
+
+#back
+{
+    margin-top: 30px;
+}
