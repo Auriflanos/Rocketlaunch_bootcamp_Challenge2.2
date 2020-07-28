@@ -2,12 +2,12 @@
     <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="300px" />
 </h1>
 <h1 align="center">
-    <strong> Challenge 2.2</strong>
+    <strong> Challenge 2-2 - Description Page</strong>
 </h1>
 
 <p align="center">
 
-  <a href="https://rocketseat.com.br">
+  <a href="https://github.com/Auriflanos">
     <img alt="Made by Lucas Gonçalves" src="https://img.shields.io/badge/made%20by-Lucas%20Gonçalves-blue">
   </a>
 
@@ -21,12 +21,16 @@
   <a href="#Short-introduction-and-Experience-report">Short introduction and Experience report</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Challenge-Bulletpoints">Challenge Bulletpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Result">Results</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Developers">Developers</a>
 </p>
 
 
 ## Today's inspiration
 > Be weird, be transparent, be authentic, be yourself.” (Ron Tite)
+
+## Original Challenge by Rocketseat
+<a href="https://github.com/Rocketseat/bootcamp-launchbase-desafios-02/blob/master/desafios/02-2-pagina-descricao.md"> Challenge 2-2 - Description page (in Portuguese) </a>
 
 ## Short introduction and Experience report
 This is a challenge for the Rocketseat Full Stack dev bootcamp. It starts the student on HTML and CSS as well, 
@@ -51,6 +55,10 @@ Free style, but with required bulletpoints:
 * Font: Roboto;
 * Company´s name and image must be highlighted;
 * Social links must have any visual style that must change when pointer passes over.
+
+## Technologies
+* HTML;
+* CSS.
 
 ## Result
 ![gif](https://github.com/Auriflanos/Rocketlaunch_bootcamp_Challenge2.2/blob/master/about.gif)
