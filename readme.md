@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="#Short-introduction-&-Experience-report">Short introduction & Experience report</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Short-introduction-and-Experience-report">Short introduction and Experience report</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Challenge-Bulletpoints">Challenge Bulletpoints</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Result">Results</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Developers">Developers</a>
@@ -28,7 +28,7 @@
 ## Today's inspiration
 > Be weird, be transparent, be authentic, be yourself.” (Ron Tite)
 
-## Short introduction & Experience report
+## Short introduction and Experience report
 This is a challenge for the Rocketseat Full Stack dev bootcamp. It starts the student on HTML and CSS as well, 
 and, for me, it was an exciting opportunity to try new things going bayond what the course requested.
 So I added a loop movie on background as well as a new page to tell technologies, instead of a solid color 
