@@ -34,7 +34,7 @@
 
 ## Short introduction and Experience report
 This is a challenge for the Rocketseat Full Stack dev bootcamp. It starts the student on HTML and CSS as well, 
-and, for me, it was an exciting opportunity to try new things going bayond what the course requested.
+and, for me, it was an exciting opportunity to try new things going beyond what the course requested.
 So I added a loop movie on background as well as a new page to tell technologies, instead of a solid color 
 background and div listing content on technologies on same page.
 
@@ -43,11 +43,11 @@ The main information required on this challenge are:
 
 ### HTML:
 Build an "about" page with:
-* Company logo/Image
-* Company name
-* Page information
-* a list with main technologies
-* links for company´s social networks  
+* Company logo/Image;
+* Company name;
+* Page information;
+* a list with main technologies;
+* links for company´s social networks.  
 
 ### Styles:
 Free style, but with required bulletpoints:
